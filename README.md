@@ -61,8 +61,8 @@ In diesem Projekt möchte ich ein Spiel erstellen, bei dem ich eine zufällige Z
 | 2.A  | 25.08.2023 |   Angel Angelov   |  Ein Zahl zwischen 1-100 generieren und speichern    |   30 min   |
 | 3.A  | 25.08.2023 |   Angel Angelov  | Die eingegebene Zahl mit der zufällig generierten Zahl vergleichen und ausgeben, ob die Zahl größer, kleiner oder eraten wurde |  60min  |
 | 4.A  | 25.08.2023 |   Angel Angelov  | Das Programm so einrichten, dass es mit fehlerhaften Eingaben umgehen kann.           |      30min         |
-| 5.A  | 25.08.2023 |   Angel Angelov  |  Programm mehrmals wiederholen zu können  | 30 min              |
-
+| 5.A  | 01.09.2023 |   Angel Angelov  |  Programm mehrmals wiederholen zu können  | 30 min              |
+| 6.A |  01.09.2023 |   Angel Angelov  |  Das Programm verschönern und verbessern            |      60min             |
 
 Total: 
 
@@ -78,8 +78,12 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 18.08.2023      |   Angel Angelov        |      180min         |    300min               |
+| 2.A  | 25.08.2023      |   Angel Angelov          |     30 min          |      15min             |
+| 3.A  | 25.08.2023      |   Angel Angelov          |      60min        |        60min           |
+| 4.A  | 25.08.2023      |   Angel Angelov          |    30min            |       40min             |
+| 5.A  | 01.09.2023      |   Angel Angelov          |    30 min            |     40 min               |
+| 6.A  | 01.09.2023      |   Angel Angelov          |       60min        |    120min               |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
