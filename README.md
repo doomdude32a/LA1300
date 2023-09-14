@@ -7,19 +7,15 @@ Angel Angelov
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 18.08.2023 | 0.0.1   | Im ersten Lernatelier morgen muss ich meine C# Kenntnisse auffrischen, da ich die Sprache schon lange nicht mehr benutzt habe. |
-| 25.08.2023 |      |                                                              |
-|       | 1.0.0   |                                                              |
-
+| 18.08.2023 | 0.1  | Im ersten Lernatelier morgen musste ich meine C# Kenntnisse auffrischen, da ich die Sprache schon lange nicht mehr benutzt habe. |
+| 25.08.2023 | 0.2  | Die ersten zwei Stunden habe ich an einem C#-Kurs gearbeitet und dann habe ich mit dem Zufallszahlenspiel begonnen.              |
+| 01.09.2023 | 0.3  | Heute habe ich mein Zufallszahlenspiel fertiggestellt.                                                                          |
+| 08.09.2023 | 1.0  | Ich habe noch einige Änderungen an meinem Spiel vorgenommen und dann habe ich mit der Dokumentation begonnen.
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-
-Im diesen projekt möchte ich ein Nummber Guesser erstellen. 
+In diesem Projekt möchte ich ein Spiel erstellen, bei dem ich eine zufällige Zahl erraten muss.
 
 ### 1.2 User Stories
 
@@ -32,8 +28,7 @@ Im diesen projekt möchte ich ein Nummber Guesser erstellen.
 | 5    |  Muss           |   Funktional   |Als User möchte ich, dass mir die Anzahl der Versuche angezeigt wird, wenn ich die Zahl erraten habe.|
 | 6    |  Muss           |   Funktional   |Als User möchte ich, dass das Programm auch mit fehlerhaften Eingaben umgehen kann.|
 | 7    |  Kann           |   Funktional   |Als User möchte ich die Möglichkeit haben, das Spiel mehrmals zu spielen, ohne das Programm erneut starten zu müssen.|
-| 8  ||||
-| 9  ||||
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -48,7 +43,7 @@ Im diesen projekt möchte ich ein Nummber Guesser erstellen.
 | 1.4  | Give another Nummber | Zahelen     |  You got the number right    |
 | 1.5  | You needed 8 gueses | -Enter- | Woud you like to play again?|
 | 1.6  |  Woud you like to play again? | No | Programm beendet|
-| 1.7  ||||
+
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -67,8 +62,7 @@ Im diesen projekt möchte ich ein Nummber Guesser erstellen.
 | 3.A  | 25.08.2023 |   Angel Angelov  | Die eingegebene Zahl mit der zufällig generierten Zahl vergleichen und ausgeben, ob die Zahl größer, kleiner oder eraten wurde |  60min  |
 | 4.A  | 25.08.2023 |   Angel Angelov  | Das Programm so einrichten, dass es mit fehlerhaften Eingaben umgehen kann.           |      30min         |
 | 5.A  | 25.08.2023 |   Angel Angelov  |  Programm mehrmals wiederholen zu können  | 30 min              |
-| 6.A  |       |  |              |               |
-| ...  |       |           |              |               |
+
 
 Total: 
 
