@@ -85,4 +85,4 @@ Ich habe mich entschieden ein MainMenu zu implemintieren.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+-> Mahara 
